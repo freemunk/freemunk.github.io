@@ -11,3 +11,4 @@ FreeMunk is een guide waarmee je je school laptop kan unlocken en je admin privi
 **BELANGRIJK: Als je school via wifi sites blokkeert, zal dit ze *NIET* onblokkeren. Dit deblokkeert alleen de computer restricties. Als je sites wilt onblokkeren, moet je een VPN of Proxy gebruiken (als je school dat niet blokkeert)**
 
 [> Begin](START.md)
+[> FAQ](FAQ.md)
