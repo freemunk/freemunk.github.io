@@ -5,7 +5,9 @@ FreeMunk is een guide waarmee je je school laptop kan unlocken en je admin privi
 * Alle instellingen veranderen
 
 *Deze tutorial werkt alleen voor Microsoft Windows 10 of 11. De stappen kunnen afwijken of compleet anders zijn als je school nog op Windows 7 werkt. Als je technisch genoeg bent kan je het wel uitvogelen, aangezien het niet een ingewikkeld proces is. Dit beteknt ook dat dit niet werkt op Chrome OS, MacOS en Linux (het zou me verbasen als een normale school linux gebruikt)*
+
 **BELANGRIJK: Ik ben niet verantwoordelijk voor iets wat fout gaat. Doe dit op je eigen risico.**
+
 **BELANGRIJK: Als je school via wifi sites blokkeert, zal dit ze *NIET* onblokkeren. Dit deblokkeert alleen de computer restricties. Als je sites wilt onblokkeren, moet je een VPN of Proxy gebruiken (als je school dat niet blokkeert)**
 
 [> Begin](START.md)
