@@ -1,6 +1,9 @@
-## Herstelmodus opstarten
+## WE BEGINNEN METEEN
 
-Om deze exploit uit te voeren, moeten we herstelmodus opstarten. Hierin zijn alle restricties en profielen uitgeschakeld, waardoor we via Command Prompt wat code kunnen uitvoeren en een nieuwe gebruiker aanmaken die administratieve toegang heeft.
+0. Je hebt een USB nodig. Minimaal 8GB. Ga er eentje zoeken. 
+1. Vind een computer. Kan je school laptop zijn. 
+2. Doe de USB in je laptop. [Klik dan op deze zin.](https://go.microsoft.com/fwlink/?LinkId=691209) Je download nu de Windows Media Creation Tool. Je hoeft niet te weten wat dat is, maar je hebt het nodig. 
+
 
 Eerst gaan we de makkelijkste manier proberen.
 
