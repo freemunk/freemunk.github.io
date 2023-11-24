@@ -6,6 +6,6 @@ VOLG DEZE HANDLEIDING.
 
 *Alleen voor laptops op Windows 10. Windows 11 waarschijnlijk ook. Misschien windows 7. Niet voor mac of chromebook.*
 
-[> KLIK HIER!!](START.md)  
+[> KLIK HIER OM TE BEGINNEN!!](START.md)  
 [> FAQ](FAQ.md)  
 [> legale dingen blabla](LEGAL.md)
