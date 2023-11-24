@@ -1,4 +1,4 @@
 title: FREEMUNK
 description: BEVRIJD JE SCHOOL LAPTOP
-theme: jekyll-theme-so-simple
+theme: "jekyll-theme-so-simple"
 skin: "/assets/css/skins/dark.css"
